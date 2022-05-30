@@ -4,7 +4,12 @@
  ![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/Advanced-model.png)
  
  Bert Run Results
- 
+ BERT  
+sequence	Num examples	Num Epochs	Total optimization steps	Exact Match (%)	F1 score (%)
+1	88524	3	22131	80.9839	88.5023
+2	88524	2	14754	80.9745	88.4023
+3	88524	1	7377	80.1798	87.5745
+
  ![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/BERTAdvanced-EM%25jpg.jpg)
  
  ![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/BERTAdvanced-F1%25jpg.jpg)

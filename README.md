@@ -12,7 +12,7 @@ sequence	Num examples	Num Epochs	Total optimization steps	Exact Match (%)	F1 sco
 3	        88524	          1	       7377	                       80.1798	    87.5745
 
 
- ![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/Code/images//BERTAdvanced-EM%25jpg.jpg)
+ ![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/Code/images/BERTAdvanced-EM%25jpg.jpg)
  
  ![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final//blob/main/Code/images/BERTAdvanced-F1%25jpg.jpg)
  

@@ -1,0 +1,12 @@
+CUDA_VISIBLE_DEVICES=0 python run_qa.py \
+  --model_name_or_path roberta_base \
+  --dataset_name squad_v2 \
+  --do_train \
+  --do_eval \
+  --per_device_train_batch_size 12 \
+  --learning_rate 3e-5 \
+  --num_train_epochs 2 \
+  --max_seq_length 384 \
+  --doc_stride 128 \
+  --version_2_with_negative \
+  --output_dir ./squadv2_roberta_base

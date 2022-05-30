@@ -14,7 +14,7 @@ sequence	Num examples	Num Epochs	Total optimization steps	Exact Match (%)	F1 sco
 
  ![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/Code/images/BERTAdvanced-EM%25jpg.jpg)
  
- ![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final//blob/main/Code/images/BERTAdvanced-F1%25jpg.jpg)
+ ![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/Code/images/BERTAdvanced-F1%25jpg.jpg)
  
  ![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/Code/images/BERTF1Score.jpg) 
  

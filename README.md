@@ -27,7 +27,7 @@ you can use paperspace.com to rent VM for runing your code
 
 Sample from SQuAD 1.1
 
-![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/Code/images/SQuAD sample of data.png)
+![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/Code/images/SQuAD%20sample%20of%20data.png)
 
 # Code Organization
 
@@ -54,7 +54,7 @@ create dataloader, load pretrained model, train model, evaluate model
 Exact-Match and F1 Score on Validation set after training:
 
 EM	F1
-0.64	0.75
+85.30%  91.85  
 
 # Useful Articles
 

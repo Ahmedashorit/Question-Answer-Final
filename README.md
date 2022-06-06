@@ -62,6 +62,8 @@ SQuAD: 100,000+ Questions for Machine Comprehension of Text, 2016: https://arxiv
 
 Know What You Don’t Know: Unanswerable Questions for SQuAD, 2018: https://arxiv.org/pdf/1806.03822.pdf
 
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding https://arxiv.org/abs/1810.04805
+
 RoBERTa: A Robustly Optimized BERT Pretraining Approach https://arxiv.org/abs/1907.11692
 
 DeBERTa: Decoding-Enhanced BERT with Disentangled Attention

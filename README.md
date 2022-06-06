@@ -15,7 +15,7 @@ you can use paperspace.com to rent VM for runing your code
 
 # Model Architecture
 
-![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/Code/images/BERT Architecture.jpg)
+![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/Code/images/BERT%20Architecture.jpg)
 
 
 [Source](https://arxiv.org/abs/1810.04805)

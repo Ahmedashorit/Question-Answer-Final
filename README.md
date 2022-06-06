@@ -25,21 +25,26 @@ you can use paperspace.com to rent VM for runing your code
 ![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/Code/images/Advanced-model.png)
 
 Sample from SQuAD 1.1
+
 ![This is an image](https://github.com/Ahmedashorit/Question-Answer-Final/blob/main/Code/images/SQuAD sample of data.png)
 
 # Code Organization
 
-├── run_squad.py        <--- main program, create dataset (tokenization and encode), 
+├── run_squad.py
+<--- main program, create dataset (tokenization and encode), 
 create dataloader, load pretrained model, train model, evaluate model
 
-├── trainer_qa.py       <--- Training engine
+├── trainer_qa.py
+<--- Training engine
 
-├── utils_qa.py         <--- Decode prediction, preprocess prediction
+├── utils_qa.py
+<--- Decode prediction, preprocess prediction
 
-├── Advanced_models.py  <--- Advanced model architecures
+├── Advanced_models.py  
+<--- Advanced model architecures
 
-├── run_qa_advanced.py  <---  main program, create dataset (tokenization and encode), 
-create dataloader, load pretrained model, train advanced model, evaluate advanced model
+├── run_qa_advanced.py  
+<---  main program, create dataset (tokenization and encode), create dataloader, load pretrained model, train advanced model, evaluate advanced model
 
 # Results
 

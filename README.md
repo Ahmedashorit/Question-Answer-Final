@@ -8,9 +8,13 @@
  
 # Requirements
 PyTorch 1.11
+
 Python 3.7
+
 RAM 30
-CPU 16
+
+CPU 8
+
 you can use paperspace.com to rent VM for runing your code
 
 # Model Architecture
